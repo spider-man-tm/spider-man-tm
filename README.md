@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Japanese web service Company.
+- 💻 It's my website's link. -> [HP](https://spider-man-tm.github.io/)
+- 🔭 I’m currently working as an IT architect.
 
 <br>
 
