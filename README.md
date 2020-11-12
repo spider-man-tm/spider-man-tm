@@ -3,6 +3,9 @@
 - 💻 It's my website's link. -> [HP](https://spider-man-tm.github.io/)
 - 🔭 I’m currently working as an IT architect.
 
+<strong>Profile views counter</strong>
+![Visitor Count](https://profile-counter.glitch.me/spider-man-tm/count.svg)
+
 <br>
 
 ### My Qiita profile
