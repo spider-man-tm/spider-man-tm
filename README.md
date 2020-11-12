@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as an IT architect.
 
 <strong>Profile views counter</strong>
-&emsp;&emsp;
+&emsp;
 ![Visitor Count](https://profile-counter.glitch.me/spider-man-tm/count.svg)
 
 <br>
