@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 It's my website's link. -> [HP](https://spider-man-tm.github.io/)
+- 💻 It's my website's [link](https://spider-man-tm.github.io/).
 - 🔭 I’m currently working as an IT architect.
 
 <strong>Profile views counter</strong>
