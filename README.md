@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 It's my website's [link](https://spider-man-tm.github.io/).
+- 💻 My website's [link](https://spider-man-tm.github.io/).
 - 🔭 I’m currently working as a Sports Data Scientist.
 
 <strong>Profile views counter</strong>
