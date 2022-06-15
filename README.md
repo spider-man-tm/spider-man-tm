@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻 My website's [link](https://spider-man-tm.github.io/).
-- 🔭 I’m currently working as a Sports Data Scientist.
+- 🔭 I’m currently working as a Data Scientist.
 
 <strong>Profile views counter</strong>
 &emsp;
@@ -17,9 +17,9 @@
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=spider-man-tm)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=spider-man-tm)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=spider-man-tm&theme=buefy&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
