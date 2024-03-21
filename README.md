@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻 My website's [link](https://spider-man-tm.github.io/).
-- 🔭 I’m currently working as a Data Scientist.
+- 🔭 I’m currently working as a Data Engineer.
 
 <strong>Profile views counter</strong>
 &emsp;
