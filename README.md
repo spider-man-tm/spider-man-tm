@@ -39,6 +39,7 @@
 
 ### My Projects
 
+- [https://github.com/marketplace/actions/kaggle-badges](https://github.com/marketplace/actions/kaggle-badges)
 - [https://okane-no-keisan.com/](https://okane-no-keisan.com/)
 - [https://apps.apple.com/jp/app/ai-23 区/id1630656604](https://apps.apple.com/jp/app/ai-23区/id1630656604)
 - [https://npb-visualization.com/](https://npb-visualization.com/)
@@ -50,6 +51,12 @@
 ### Contest・Blog
 
 <div>
+  <a href="https://www.kaggle.com/spidermandance">
+    <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" alt="KaggleCompetitionRank" />
+  </a>
+  <a href="https://www.kaggle.com/spidermandance">
+    <img src="./kaggle-badges/NotebooksRank/plastic-black.svg" alt="KaggleNotebooksRank" />
+  </a>
   <a href="https://atcoder.jp/users/Spiderman_?contestType=algo">
     <img src="https://badgen.org/img/atcoder/Spiderman_/rating/algorithm?style=plastic" alt="Rating" />
   </a>
