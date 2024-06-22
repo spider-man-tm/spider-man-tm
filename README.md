@@ -4,11 +4,6 @@
 - 🔭 I’m currently working as a Data Engineer.
 
 <!-- <strong>Profile views counter：</strong>&emsp;![Visitor Count](https://profile-counter.glitch.me/spider-man-tm/count.svg) -->
-
-<br />
-
-## GitHub Contribution
-
 <!-- ![](profile-3d-contrib/profile-gitblock.svg) -->
 
 <picture>
