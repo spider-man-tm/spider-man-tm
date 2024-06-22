@@ -7,9 +7,9 @@
 
 <br />
 
-## GitHub Sammary
+## GitHub Contribution
 
-![](profile-3d-contrib/profile-gitblock.svg)
+<!-- ![](profile-3d-contrib/profile-gitblock.svg) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake-dark.svg">
