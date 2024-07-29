@@ -41,6 +41,7 @@
 
 ### OSS
 
+- [pytorch/torchtune#1220](https://github.com/pytorch/torchtune/pull/1220)
 - [hatena/hatenablog-workflows#24](https://github.com/hatena/hatenablog-workflows/pull/24)
 
 ### Contest・Blog
@@ -50,7 +51,7 @@
     <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" alt="KaggleCompetitionRank" />
   </a>
   <a href="https://www.kaggle.com/spidermandance">
-    <img src="./kaggle-badges/NotebooksRank/plastic-black.svg" alt="KaggleNotebooksRank" />
+    <img src="./kaggle-badges/NotebooksRank/plastic-white.svg" alt="KaggleNotebooksRank" />
   </a>
   <a href="https://atcoder.jp/users/Spiderman_?contestType=algo">
     <img src="https://badgen.org/img/atcoder/Spiderman_/rating/algorithm?style=plastic" alt="Rating" />
