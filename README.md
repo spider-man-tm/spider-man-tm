@@ -66,7 +66,7 @@
 
 <br />
 
-<div>
+<!-- <div>
   <a href="https://www.kaggle.com/spidermandance">
     <img src="./kaggle-plates/Competitions/white.svg" alt="KaggleCompetitionRank" />
   </a>
@@ -81,4 +81,4 @@
   </a>
 </div>
 
-<br />
+<br /> -->
