@@ -41,6 +41,7 @@
 
 ### OSS
 
+- [dataform-co/dataform#1812](https://github.com/dataform-co/dataform/pull/1812)
 - [pytorch/torchtune#1220](https://github.com/pytorch/torchtune/pull/1220)
 - [hatena/hatenablog-workflows#24](https://github.com/hatena/hatenablog-workflows/pull/24)
 
